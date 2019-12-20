@@ -40,7 +40,7 @@ email: dave.delgadog@hotmail.com
 avatar: https://avatars3.githubusercontent.com/u/27095315?s=400&u=aa48854aa5f24478dfb1e276f4a2b95653a91a5c&v=4
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
